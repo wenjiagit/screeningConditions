@@ -1,0 +1,2 @@
+# screeningConditions
+一款类型于淘宝头部的筛选条件插件
